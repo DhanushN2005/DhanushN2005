@@ -21,7 +21,6 @@ I build **data-driven intelligent systems** focused on:
 - Automation
 - Real-world AI applications
 
----
 
 ## 🚀 Flagship Projects
 
@@ -37,8 +36,6 @@ I build **data-driven intelligent systems** focused on:
 ### 🍔 Food Ordering Web App
 > Full-stack web system built using Spring MVC & MySQL.
 
----
-
 ## 🛠 Tech Arsenal
 
 **Languages**  
@@ -53,15 +50,6 @@ Flask • FastAPI • Spring Boot • REST APIs
 **Tools & DevOps**  
 Git • Docker • DVC • MySQL • SQLite
 
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhanushN2005&show_icons=true&theme=radical" />
-</p>
-
----
 
 ## 🎯 Current Focus
 
