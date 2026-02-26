@@ -1,18 +1,40 @@
-# Hi 👋, I’m Dhanush N
+# 👋 Hi, I’m Dhanush N
 
-I’m a **B.Tech student in Artificial Intelligence and Data Science** with an interest in **AI, Machine Learning, and Web Development**. I enjoy building practical projects and learning through hands-on experience.
+AI & ML Developer | Intelligent Systems Builder | Full-Stack Engineer
 
-## 🚀 About Me
+I design and build data-driven systems focused on optimization, automation, and real-world problem solving.
 
-- 🎓 **B.Tech – AI & Data Science**  
-  Karpagam College of Engineering, Coimbatore  
-  CGPA: **8.7** (2023 – Present)
-- 📍 Salem, Tamil Nadu, India
-- 💡 Interested in **AI/ML, Data Science, and Full-Stack Development**
-- 🏆 Active learner and hackathon participant
+---
 
-## 🎯 Career Objective
+## 🚀 Flagship Projects
 
-To become a **skilled Software Engineer or AI/Data Science Engineer**, working on meaningful projects and continuously improving my technical skills
+- 🏏 **AI Fantasy Cricket Team Selector**  
+  Stacked ML model with credit optimization, role balancing & constraint logic.
 
-⭐ *Thanks for visiting my profile. Feel free to check out my projects and connect with me!*
+- 🤖 **SmartSched AI**  
+  Dynamic scheduling system with urgency scoring and real-time rescheduling.
+
+- 🌾 **Agriculture Governance AI**  
+  Agent-based decision intelligence system using RAG over government data.
+
+- 🍔 **Food Ordering Web App**  
+  Full-stack application built with Spring MVC & MySQL.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Python, Java, JavaScript  
+**AI/ML:** Scikit-Learn, LightGBM, NLP, Model Stacking  
+**Backend:** Flask, FastAPI, Spring Boot  
+**Tools:** Git, Docker, DVC, SQLite, MySQL  
+
+---
+
+## 📈 Current Focus
+Building scalable AI systems and improving model lifecycle management.
+
+---
+
+📍 Tamil Nadu, India  
+🎓 B.Tech AI & Data Science | CGPA 8.7
